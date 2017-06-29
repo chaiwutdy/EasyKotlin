@@ -1,0 +1,3 @@
+interface TestInf {
+	fun d()
+}
